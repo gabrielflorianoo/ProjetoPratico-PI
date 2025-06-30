@@ -4,6 +4,9 @@
 * Gabriel Fernando Floriano - 2564149
 * Robson Luis de Carvalho - 2539039
 
+#### Link para os videos:
+[https://drive.google.com/drive/u/0/folders/1L3XZ1fVlH4xABEVznadAnXpxIdO6YR3L](https://drive.google.com/drive/folders/1L3XZ1fVlH4xABEVznadAnXpxIdO6YR3L?usp=sharing)
+
 ## Descrição do(s) Descritor(es) Implementado(s)
 Neste projeto, utilizamos a arquitetura de Rede Neural Convolucional **ResNet50** como principal descritor de características. A ResNet50 é uma rede neural profunda pré-treinada no vasto dataset ImageNet, o que lhe confere a capacidade de extrair **características hierárquicas e complexas** das imagens. Ela atua como um poderoso extrator de características genéricas (bordas, texturas, formas, etc.), que são então adaptadas para a tarefa de classificação específica do nosso dataset através de camadas adicionais e um ajuste fino (fine-tuning).
 
