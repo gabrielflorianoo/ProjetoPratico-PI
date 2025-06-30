@@ -14,7 +14,7 @@ https://colab.research.google.com/drive/1GN7ioEdsnzQbzo9y7FgBTf5GeXi2KKXL#scroll
 O classificador utilizado é uma **Rede Neural Densa (MLP)** construída sobre as características extraídas pela ResNet50. Após o extrator de características ResNet50 (com camadas congeladas), foram adicionadas camadas densas com ativação ReLU, uma camada de Dropout para regularização e uma camada de saída com ativação Softmax para classificação multirrótulo.
 
 **Acurácia Obtida:** 88%
-**Loss Obtido:** 0.3016
+**Loss Obtido:** 0.3016 (No campo de treinamento)
 
 ## Instruções de Uso
 Para executar este projeto, siga os passos abaixo no Google Colab:
